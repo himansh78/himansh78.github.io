@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img src="{{ '/assets/img/headshot.jpg'}}"
+<img src="/assets/img/headshot.jpg"
      alt="Himanshu Agrawal"
      style="max-width:200px; border-radius:50%; float:right; margin-left:20px;">
 

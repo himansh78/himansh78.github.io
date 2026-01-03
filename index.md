@@ -2,8 +2,11 @@
 layout: default
 title: Home
 ---
+<img src="{{ '/assets/img/headshot.jpg' | relative_url }}"
+     alt="Himanshu Agrawal"
+     style="max-width:200px; border-radius:50%; float:right; margin-left:20px;">
 
-# Welcome
+# About
 
-I am a PhD researcher working on physics-based ground motion simulations and seismic risk assessment.  
-This website presents my research, publications, and teaching activities.
+I am a PhD Researcher at the University of Edinburgh working within the Tomorrow’s Cities Hub.
+My research focuses on seismic hazard, ground motion simulation, and uncertainty quantification.
